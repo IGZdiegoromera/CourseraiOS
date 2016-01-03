@@ -1,2 +1,2 @@
 # CourseraiOS
-Repo for the iOS course in coursera - Monterrey
+Repo for the iOS course in coursera - Monterrey Univ
